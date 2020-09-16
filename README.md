@@ -8,7 +8,7 @@ We use the model introduced in the work of Paielli and Erzberg [Conflict probabi
 
 **notebook_fr.ipynb** Jupyter notebook in French.
 
-**Presentation_French** French slides pdf.
+**Presentation_French.pdf** French slides pdf.
 
 
 Ilias SAGHIR & Salaheddine ELKADIRI
